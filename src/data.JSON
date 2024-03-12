@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "&quot;Metal Gear Solid 3: Snake Eater&quot; was released in 2004.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Portal, the Companion Cube&#039;s ARE sentient.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who voices the character &quot;Reigen&quot;  in the English dub of &quot;Mob Psycho 100&quot;?",
+            "correct_answer": "Chris Niosi",
+            "incorrect_answers": [
+                "Max Mittelman",
+                "Kyle McCarley",
+                "Casey Mongillo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Musicals &amp; Theatres",
+            "question": "Which of the following is not a piece from the 1950&#039;s musical West Side Story?",
+            "correct_answer": "The Back Alley",
+            "incorrect_answers": [
+                "Maria",
+                "Tonight",
+                "Mambo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Minecraft&quot;, gold tools are faster than diamond tools.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "The animated film &quot;Spirited Away&quot; won the Academy Award for Best Animated Feature at the 75th Academy Awards in 2003.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "In Chess, the Queen has the combined movement of which two pieces?",
+            "correct_answer": "Bishop and Rook",
+            "incorrect_answers": [
+                "Rook and King",
+                "Knight and Bishop",
+                "King and Knight"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",
+            "correct_answer": "Frankenstein&#039;s monster",
+            "incorrect_answers": [
+                "Dracula",
+                "The Thing",
+                "The Invisible Man"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+            "correct_answer": "Gauss&#039;s Law",
+            "incorrect_answers": [
+                "Faraday&#039;s Law",
+                "Ampere&#039;s Law",
+                "Biot-Savart Law"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "How tall is the Burj Khalifa?",
+            "correct_answer": "2,722 ft",
+            "incorrect_answers": [
+                "2,717 ft",
+                "2,546 ft",
+                "3,024 ft"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Capcom&#039;s survival horror title Dead Rising, canonically starts on what day of September 2006?",
+            "correct_answer": "September 19th",
+            "incorrect_answers": [
+                "September 21st",
+                "September 30th",
+                "September 14th"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What is Meg&#039;s full name in &quot;Family Guy&quot;?",
+            "correct_answer": "Megatron Griffin",
+            "incorrect_answers": [
+                "Who-Cares Griffin",
+                "Neil Griffin",
+                "Megan Griffin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "What year did the television company BBC officially launch the channel BBC One?",
+            "correct_answer": "1936",
+            "incorrect_answers": [
+                "1948",
+                "1932",
+                "1955"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which song made by MAN WITH A MISSION was used as the opening for the anime &quot;Log Horizon&quot;?",
+            "correct_answer": "&quot;Database&quot;",
+            "incorrect_answers": [
+                "&quot;Dead End in Tokyo&quot;",
+                "&quot;Raise Your Flag&quot;",
+                "&quot;Out of Control&quot;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+            "correct_answer": "Catholic",
+            "incorrect_answers": [
+                "Christian",
+                "Jewish",
+                "Islamic"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "New Haven is the capital city of the state of Connecticut in the United States.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+            "correct_answer": "USS Pueblo",
+            "incorrect_answers": [
+                "USS North Carolina",
+                "USS Constitution",
+                "USS Indianapolis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "What was Rage Against the Machine&#039;s debut album?",
+            "correct_answer": "Rage Against the Machine",
+            "incorrect_answers": [
+                "Evil Empire",
+                "Bombtrack",
+                "The Battle Of Los Angeles"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the 2015 RPG &quot;Undertale&quot;, which character do you first encounter after falling down into the underground?",
+            "correct_answer": "Flowey",
+            "incorrect_answers": [
+                "Toriel",
+                "Sans",
+                "Papyrus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Who wrote the musical composition, &quot;Rhapsody In Blue&quot;?",
+            "correct_answer": "George Gershwin",
+            "incorrect_answers": [
+                "Irving Berlin",
+                "Duke Ellington",
+                "Johnny Mandel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Animals",
+            "question": "Hippocampus is the Latin name for which marine creature?",
+            "correct_answer": "Seahorse",
+            "incorrect_answers": [
+                "Dolphin",
+                "Whale",
+                "Octopus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Approximately how many Apple I personal computers were created?",
+            "correct_answer": "200",
+            "incorrect_answers": [
+                "100",
+                "500",
+                "1000"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+            "correct_answer": "Limitless Fury",
+            "incorrect_answers": [
+                "Let The Sparks Fly",
+                "Down",
+                "Give Up The Ghost"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Film",
+            "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie &quot;Avatar&quot;?",
+            "correct_answer": "Sigourney Weaver",
+            "incorrect_answers": [
+                "Jessica Chastain",
+                "Melissa Beckett",
+                "Alyssa Monroe "
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "In Greek mythology, Hera is the goddess of harvest.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Hitman: Blood Money, what is the name of the target in the mission &quot;Death of a Showman&quot;?",
+            "correct_answer": "Joseph Clarence",
+            "incorrect_answers": [
+                "The Swing King",
+                "Maynard John",
+                "Manuel Delgado"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Who played the sun baby in the original run of Teletubbies?",
+            "correct_answer": "Jessica Smith",
+            "incorrect_answers": [
+                "Pui Fan Lee",
+                "Sue Monroe",
+                "Lisa Brockwell"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "Which game in the &quot;Dark Souls&quot; series does the player play as the &quot;Ashen One&quot;?",
+            "correct_answer": "Dark Souls III",
+            "incorrect_answers": [
+                "Dark Souls I",
+                "Bloodborne",
+                "Demon Souls"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
+            "correct_answer": "Polynesian",
+            "incorrect_answers": [
+                "Native American",
+                "Japanese",
+                "Nordic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "When was the SS or Schutzstaffel established?",
+            "correct_answer": "April 4th, 1925",
+            "incorrect_answers": [
+                "September 1st, 1941",
+                "March 8th, 1935",
+                "February 21st, 1926"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Mythology",
+            "question": "This Greek mythological figure is the god\/goddess of battle strategy (among other things).",
+            "correct_answer": "Athena",
+            "incorrect_answers": [
+                "Ares",
+                "Artemis",
+                "Apollo"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+            "correct_answer": "Apple",
+            "incorrect_answers": [
+                "Microsoft",
+                "Atari",
+                "Commodore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In JoJo&#039;s Bizarre Adventure, who says &quot;Yare yare daze&quot;?",
+            "correct_answer": "Jotaro Kujo",
+            "incorrect_answers": [
+                "Joseph Joestar",
+                "Jolyne Cujoh",
+                "Koichi Hirose"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?",
+            "correct_answer": "The Vikings ",
+            "incorrect_answers": [
+                "The Long Ships",
+                "Prince Valiant",
+                "Spartacus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "What is the fourth book of the Old Testament?",
+            "correct_answer": "Numbers",
+            "incorrect_answers": [
+                "Genesis",
+                "Exodus",
+                "Leviticus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which of these car models are produced by Lamborghini?",
+            "correct_answer": "Aventador",
+            "incorrect_answers": [
+                "Huayra",
+                "918",
+                "Chiron"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Who painted The Starry Night?",
+            "correct_answer": "Vincent van Gogh",
+            "incorrect_answers": [
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Michelangelo"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Leonardo da Vinci was not the creator of the Mona Lisa.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+            "correct_answer": "Laura Roslin",
+            "incorrect_answers": [
+                "William Adama",
+                "Tricia Helfer",
+                "Harry Stills"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "Which of these animals is NOT a lizard?",
+            "correct_answer": "Tuatara",
+            "incorrect_answers": [
+                "Komodo Dragon",
+                "Gila Monster",
+                "Green Iguana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?",
+            "correct_answer": "Freedom",
+            "incorrect_answers": [
+                "Promise",
+                "Adventure",
+                "Friendship"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "By what name was the author Eric Blair better known?",
+            "correct_answer": "George Orwell",
+            "incorrect_answers": [
+                "Aldous Huxley",
+                "Ernest Hemingway",
+                "Ray Bradbury"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+            "correct_answer": "Earth",
+            "incorrect_answers": [
+                "Venus",
+                "Mars",
+                "Uranus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Deuterium is an isotope of which element?",
+            "correct_answer": "Hydrogen",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Helium",
+                "Neon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "The pantheon in Rome was used to worship what god?",
+            "correct_answer": "Any god they wanted",
+            "incorrect_answers": [
+                "Athena",
+                "Zeus",
+                "Both Athena and Zeus"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+            "correct_answer": "Ernest Rutherford",
+            "incorrect_answers": [
+                "Joseph John Thomson",
+                "Archimedes",
+                "Niels Henrik David Bohr"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "United States of America",
+                "Soviet Union",
+                "Poland"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What tiny principality lies between Spain and France?",
+            "correct_answer": "Andorra",
+            "incorrect_answers": [
+                "Liechtenstein",
+                "Monaco",
+                "San Marino"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "In the alternate timeline in Mortal Kombat, which character was the one to slaughter the Shirai Ryu clan?",
+            "correct_answer": "Quan Chi",
+            "incorrect_answers": [
+                "Sub-Zero",
+                "Sektor",
+                "Shang Tsung"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "General Knowledge",
+            "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+            "correct_answer": "7 years",
+            "incorrect_answers": [
+                "2 years",
+                "8 years",
+                "6 months"
+            ]
+        }
+    ]
+}
