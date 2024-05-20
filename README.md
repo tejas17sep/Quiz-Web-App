@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+﻿
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Question                                              EPIC                        Meditech               MAgic
 
-## Available Scripts
+Authorization                                 Go to->Auth   ,     Insurance Tab-->Authorization      ,,  13-12-4
 
-In the project directory, you can run:
+ 
+SSN                                    Go to->Registration->Demographic ,   Demographic-Patient   Summery Page 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Charges, Payments & refunds and adjustments               Tx Inquiry  ,  Inquiry--> All collect Txns   13 -3 - S
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Previous visit                          Guarantor summary -> accounts ,  Space + U   ,,,   Space + U
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Medical Records                        Onbase review/Doc review/Chart review , EMR & One content web ,,,  Chartmax
 
-### `npm run build`
+CPT Codes, Modifer and Diagnosis Insurance card               Coding  ,,  Codes ,,    13-12-14
+ 
+Posting Notes               Onbase review/Doc review/Chart review Account activities  , Collection -> Comments-> create   ,    13-45-F9 
+  
+Claim form and claim history     Liability Bucket->Invoice->View Claim/History   ,,, Scan & One Content Web Collections-> Comments   ,,,   Relay assurance
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Viewing Previous Comments      History      Relay assurance Collection inquiry-> Comments    ,,,   13-20-2
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+UCRN                                     N/A  ,Inquiry->Other Inquiry->UCRN  ,,,  13-20-5
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Going Back to previous screen                        N/A,     N/A  ,Enter
 
-### `npm run eject`
+Insurance correspondence and appeal letter       Onbase review/Chart review/CBO Onbase ,    One Content Web  ,  Chartmax
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
